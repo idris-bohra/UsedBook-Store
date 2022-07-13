@@ -1,0 +1,10 @@
+.tagline{
+    background-image: linear-gradient(to right, #ffffff, #eaeaeb, #d6d4d7, #c3c0c3, #b1abaf, #afa4ac, #ac9da9, #a996a7, #af9cba, #aea5cf, #a4afe5, #90bbf9);
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 100px;
+
+}
